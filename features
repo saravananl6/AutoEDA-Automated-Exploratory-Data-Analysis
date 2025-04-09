@@ -1,0 +1,6 @@
+## Features
+
+- **Interactive Menu:** Users can select from a variety of EDA operations, including data visualization, null value detection, and feature engineering.
+- **Data Visualization:** Supports histogram, scatter plot, and bar chart visualizations to help identify trends and correlations.
+- **Machine Learning Integration:** Includes a basic linear regression model to predict target variables based on selected features.
+- **Categorical Data Handling:** Automatically encodes categorical variables for use in machine learning models.
